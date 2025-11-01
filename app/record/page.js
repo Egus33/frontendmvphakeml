@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from "react";
 // Constantes
 const sampleRate = 16000;
 const bufferSize = 4096;
-const WS_ENDPOINT = "wss://partial-landscape-hunt-solve.trycloudflare.com/v1/record";
+const WS_ENDPOINT = "wss://platinum-lodge-ask-maria.trycloudflare.com/v1/record";
 
 export default function RecordPage() {
   
